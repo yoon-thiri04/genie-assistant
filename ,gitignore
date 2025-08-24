@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env / Keys
+.env
+
+# Data / models
+models/
+*.h5
+*.safetensors
+*.onnx
+
+# OS / IDE
+.DS_Store
+*.log
+.vscode/

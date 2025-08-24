@@ -1,0 +1,11 @@
+passlib
+chromadb
+sentence-transformers
+streamlit
+python-jose
+bcrypt
+motor
+dotenv
+fastapi
+uvicorn
+python-multipart
